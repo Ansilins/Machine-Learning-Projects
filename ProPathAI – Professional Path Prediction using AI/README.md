@@ -78,6 +78,7 @@ If you have any questions, suggestions, or feedback regarding this project, feel
 - **Email**: [ansilinkumarai@gmail.com](mailto:ansilinkumarai.com)
 - **GitHub**: [github.com/Ansilins](https://github.com/Ansilins)
 - **LinkedIn**: [linkedin.com/in/ansilin-kumar/](https://www.linkedin.com/in/ansilin-kumar/)
+- **📧 Email**: [ansilinkumarai@gmail.com](mailto:ansilinkumarai@gmail.com)
 
 ---
 
