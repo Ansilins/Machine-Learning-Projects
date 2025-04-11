@@ -76,12 +76,8 @@ Moving forward, the app can be improved by expanding the dataset, exploring more
 If you have any questions, suggestions, or feedback regarding this project, feel free to reach out to me:
 
 - **Email**: [ansilinkumarai@gmail.com](mailto:ansilinkumarai.com)
-- **GitHub**: [ansilins]([https://github.com/your-username](https://github.com/Ansilins))
-- **LinkedIn**: [Ansilin Kumar](https://www.linkedin.com/in/ansilin-kumar/)
-
-- **Email**: [ansilinkumarai@gmail.com](mailto:ansilinkumarai.com)
 - **GitHub**: [github.com/Ansilins](https://github.com/Ansilins)
-- **LinkedIn**: [linkedin.com/in/ansilin-kumar/](https://linkedin.com/in/your-profile)
+- **LinkedIn**: [linkedin.com/in/ansilin-kumar/](https://www.linkedin.com/in/ansilin-kumar/)
 
 ---
 
