@@ -17,17 +17,6 @@ The **Career Path Prediction App** predicts the most suitable career path for in
 
 ---
 
-## Repo Structure
-career-path-prediction-app/
-│
-├── app.py                   # Main Streamlit app file
-├── model/                   # Folder containing trained model and feature columns
-│   ├── career_predictor_model1.pkl  # Random Forest model
-│   └── feature_columns1.pkl        # Feature columns for data preprocessing
-├── requirements.txt         # List of dependencies
-├── README.md                # Project overview and instructions
----
-
 ## Project Description
 
 The **Career Path Prediction App** helps individuals make informed decisions regarding their career choices. By analyzing various features such as GPA, coding skills, personality traits, and more, the app suggests the most suitable career options. It can be particularly useful for students, professionals, and career counselors to explore career paths based on measurable personal data.
