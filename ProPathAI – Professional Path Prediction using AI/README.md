@@ -79,6 +79,10 @@ If you have any questions, suggestions, or feedback regarding this project, feel
 - **GitHub**: [ansilins]([https://github.com/your-username](https://github.com/Ansilins))
 - **LinkedIn**: [Ansilin Kumar](https://www.linkedin.com/in/ansilin-kumar/)
 
+- **Email**: [ansilinkumarai@gmail.com](mailto:ansilinkumarai.com)
+- **GitHub**: [github.com/Ansilins](https://github.com/Ansilins)
+- **LinkedIn**: [linkedin.com/in/ansilin-kumar/](https://linkedin.com/in/your-profile)
+
 ---
 
 Feel free to contribute to this project or report issues via the GitHub issues section. I appreciate your interest in the **Career Path Prediction App**!
